@@ -1,6 +1,32 @@
 THINGS I WISH I KNEW WHEN I STARTED
 ===================================
 - python 2.7 vs 3
+    - I'm sure you've already seen this and if you haven't figured it out, 
+    it's kind of a pain in the ass sometimes.
+    - There be two versions of python that are currently supported, 2.x and 3.x.
+    - 2.x has been around for a long time and is widely supported, 3.x has not
+    and is not.
+    - 3.x is the future and everyone, whether the like it or, not is moving
+    there. It is just taking a really long time, but that was expected.
+    - The reason for this is, in the beginning Python didn't so some things
+    the way they should have...so they kept supporting them for backwards
+    compatibility, but eventually realized it wasn't worth it so they changed
+    the language and removed the crappy stuff and fixed it with 3.x.  They knew
+    what they were doing and that it would take a long time for all the libraries
+    to update to 3.x.  It was not a mistake, this was very much on purpose.
+    - I learned on 2.7 which is the latest version that isn't 3.x.  It has
+    almost all of the features of 3.x, but it's not 3.x...it's a little different.
+    - The differences do not matter to you for the most part. They are all minor
+    and really only matter to guys way smarter than us or guys who have been
+    doing it a lot longer than us.
+    - I wish I'd have started learning 3.x and then just changed stuff to be
+    compatible with 2.x on an as needed basis.  Now I have to break my habits
+    so that I can make sure my stuff is 3.x friendly.
+    - A lot of libraries and tools (the bigger they are the more likely they
+    aren't up to date yet), aren't on 3.x (but they will be eventually) so you
+    may need to know 2.7 also...but it's minor stuff.  I think you'll be able
+    to find help on the differences pretty easily.
+    - Take what you will from that.
 - pypi.python.org
     - This is the app store for python, it makes it easy to install packages
     for python. Anytime you see a new module or package you need or want to
@@ -62,6 +88,11 @@ THINGS I WISH I KNEW WHEN I STARTED
                 - git init or git clone, git add README, git commit -m "add readme",
                 git push remoteName
     - github is also just great to go look at other peoples code and read it
+    - git-scm.com/book
+        - this is the most thorough way to learn git.
+    - try.github.io
+        - free and you'll learn the basics
+
 
 RESOURCES
 =============
