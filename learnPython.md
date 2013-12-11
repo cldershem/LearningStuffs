@@ -1,6 +1,6 @@
 THINGS I WISH I KNEW WHEN I STARTED
 ===================================
-- python 2.7 vs 3
+- python 2.x vs 3.x
     - I'm sure you've already seen this and if you haven't figured it out, 
     it's kind of a pain in the ass sometimes.
     - There be two versions of python that are currently supported, 2.x and 3.x.
@@ -92,7 +92,6 @@ THINGS I WISH I KNEW WHEN I STARTED
         - this is the most thorough way to learn git.
     - try.github.io
         - free and you'll learn the basics
-
 
 RESOURCES
 =============
