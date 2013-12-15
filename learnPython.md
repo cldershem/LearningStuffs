@@ -8,7 +8,7 @@ THINGS I WISH I KNEW WHEN I STARTED
     and is not.
     - 3.x is the future and everyone, whether the like it or, not is moving
     there. It is just taking a really long time, but that was expected.
-    - The reason for this is, in the beginning Python didn't so some things
+    - The reason for this is, in the beginning Python didn't do some things
     the way they should have...so they kept supporting them for backwards
     compatibility, but eventually realized it wasn't worth it so they changed
     the language and removed the crappy stuff and fixed it with 3.x.  They knew
